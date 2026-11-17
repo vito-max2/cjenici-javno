@@ -2,6 +2,11 @@
   "files": [
     {
       "channel": "webshop",
+      "filename": "webshop_20261117_143419_6a49e73c849d.csv",
+      "replaced_at": "2026-11-17T14:34:19.091879+01:00"
+    },
+    {
+      "channel": "webshop",
       "filename": "webshop_20261117_122505_56b28a730148.csv",
       "replaced_at": "2026-11-17T12:25:05.072421+01:00"
     },
