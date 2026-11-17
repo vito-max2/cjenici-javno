@@ -1,6 +1,16 @@
 {
   "files": [
     {
+      "channel": "webshop",
+      "filename": "webshop_20261117_122505_56b28a730148.csv",
+      "replaced_at": "2026-11-17T12:25:05.072421+01:00"
+    },
+    {
+      "channel": "prodavaonica",
+      "filename": "prodavaonica_20261117_122505_a8646ecf9d2b.csv",
+      "replaced_at": "2026-11-17T12:25:05.072421+01:00"
+    },
+    {
       "channel": "prodavaonica",
       "filename": "prodavaonica_20261117_110110_1fba5145d4ee.csv",
       "replaced_at": "2026-11-17T11:01:10.693452+01:00"
